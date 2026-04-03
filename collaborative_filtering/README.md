@@ -98,4 +98,6 @@ Item-based 推荐结果：
 
 ---
 
-**如果对你有帮助，欢迎 Star ⭐**
+**代码仓库：[github.com/canglan1989/xiaohongshu-codes](https://github.com/canglan1989/xiaohongshu-codes)
+
+如果对你有帮助，欢迎 Star ⭐**

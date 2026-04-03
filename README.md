@@ -6,6 +6,7 @@
 
 - 非全研究生，推荐系统方向
 - 小红书：[熙洲](https://www.xiaohongshu.com/user/profile/5c8149b8000000001602b584)
+- GitHub: [github.com/canglan1989/xiaohongshu-codes](https://github.com/canglan1989/xiaohongshu-codes)
 - 记录 AI 学习过程 + 推荐系统实战
 
 ## 📖 目录
@@ -34,7 +35,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/xiaohongshu-codes.git
+git clone https://github.com/canglan1989/xiaohongshu-codes.git
 
 # 进入目录
 cd xiaohongshu-codes
