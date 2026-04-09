@@ -17,7 +17,7 @@
 |------|------|---------|
 | `collaborative_filtering/` | 协同过滤实现 | [3 分钟讲清楚协同过滤](http://xhslink.com/o/1YVhkzwXquD) |
 | `recommendation_algorithms/` | 4 种推荐算法对比 | [协同过滤之后，推荐系统还有哪些玩法？](待更新) |
-| `embedding/` | Embedding 详解 | 更新中... |
+| `embedding-tutorial/` | Embedding 完整教程（含可视化） | 更新中... |
 | `feature_engineering/` | 特征工程技巧 | 更新中... |
 
 ### 论文复现
